@@ -1,14 +1,14 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="🛍️ Shop Assistant", layout="wide")
+st.set_page_config(page_title="🛍️ Products Assistant", layout="wide")
 
 # Initialize chat history
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
 # ---- Sidebar Chat UI -------------------------------------------------
-st.sidebar.title("💬 Shop Assistant Chat")
+st.sidebar.title("💬 Products Assistant Chat")
 st.sidebar.markdown("Ask anything about our products:")
 
 #---------------- User input ------------------------------------------

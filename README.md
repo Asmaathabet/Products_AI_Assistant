@@ -1,4 +1,4 @@
-# 🛍️ Shop Assistant Chatbot
+# 🛍️ Products Assistant Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that helps customers search products and answer product-related questions using **FastAPI**, **Google Gemini**, **Pinecone**, **MySQL**, and **Streamlit**.
 
@@ -32,7 +32,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that helps customers search produ
 ## Project Structure
 
 ```text
-customer-care-chatbot/
+products-ai-chatbot/
 │
 ├── backend/
 │   ├── database/
@@ -71,9 +71,9 @@ customer-care-chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Asmaathabet/Shop-Assistant-AI.git
+git clone https://github.com/Asmaathabet/Products_AI_Assistant.git
 
-cd Shop-Assistant-AI
+cd Products-Assistant-AI
 ```
 
 ### 2. Create a virtual environment
@@ -230,25 +230,19 @@ Example response
 
 ### Products API
 
-![Products API](products_test.png)
+![alt text](image-2.png)
 
 ---
 
 ### Chat API
 
-![Chat API](chat_test.png)
+![alt text](image-1.png)
 
 ---
 
-### Shop Assistant
+### Products AI Assistant
 
-![Shop Assistant](shop-assistant-chat-test.png)
-
----
-
-### Product List
-
-![Product List](shop_products_list_test.png)
+![alt text](image.png)
 
 ---
 
