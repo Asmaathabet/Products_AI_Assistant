@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+mysql-connector-python
+python-dotenv
+langchain
+langchain-google-genai
+langchain-pinecone
+pinecone
+requests
+tqdm
